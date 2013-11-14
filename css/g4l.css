@@ -1,0 +1,205 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-bottom: 40px;
+  color: #5a5a5a;
+}
+
+
+#skrollr-body {
+    width: 100%;
+}
+
+.skrollable {
+    position: fixed;
+    z-index: 100;
+}
+
+p {
+    font-family: "Open Sans";
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;
+}
+
+h1,h2,h3,h4 {
+    font-family: "Share Tech";
+    font-style: normal;
+    color: #E5696C;
+}
+
+.badge-g4l {
+    width: 50px;
+    height: 50px;
+    background-color: #E5696C;
+    color: #ffffff;
+    font-family: "Share Tech";
+    font-style: normal;
+    font-size: 37px;
+    display: inline-block;
+}
+
+
+/* Carousel base class */
+.headline {
+    height: 400px;
+    width: 100%;
+    color: #FFF;
+    background: url('../img/headline.jpg') #363f48 fixed;
+    z-index: 999998;
+    position: relative;
+    background-size: 100%;
+    padding: 200px 40px 200px 80px;
+
+}
+
+.headline .logo {
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+
+.content {
+    padding: 40px inherit;
+}
+
+
+.context-1 {
+    height: 400px;
+    width: 100%;
+    color: #FFF;
+    background: url('../img/context-1.jpg') #363f48 fixed no-repeat 50% 0;
+    z-index: 999998;
+    position: relative;
+    /*background-size: 100%;*/
+    padding: 200px 80px;
+    height: 450px;
+    position: relative;
+}
+
+.enjoy {
+    font-family: "Open Sans Condensed";
+    font-weight: 300;
+    font-style: normal;
+    padding: inherit 20px;
+    color: #E5696C;
+}
+
+.enjoy h1 {
+    font-size: 45px;
+}
+
+.enjoy img {
+    padding: 50px;
+}
+
+.how-to {
+
+}
+
+.how-to h3 {
+    display: inline-block;
+    text-transform: uppercase;
+    padding-left: 8px;
+}
+
+.how-to .title h1 {
+    padding-bottom: 30px;
+    font-size: 45px;
+}
+
+.how-to img {
+    display: inline-block;
+    margin-bottom: 60px;
+    padding-left: 10px;
+}
+
+/* Center align the text within the three columns below the carousel */
+.how-to .col-lg-4 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.how-to h2 {
+  font-weight: normal;
+}
+.how-to .col-lg-4 p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: -40px;
+}
+
+
+.services {
+    padding-bottom: 30px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.service-block {
+    width: 388px;
+}
+
+.services h3 {
+    width: 125px;
+    text-align: right;
+    vertical-align: top;
+    display: inline-block;
+    margin-right: 0px;
+}
+
+.services img {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    margin-top: 14px;
+    margin-right: 2px;
+}
+
+
+.contact h1 {
+    font-size: 38px;
+}
+
+.mail {
+    font-family: "Share Tech";
+    font-style: normal;
+    color: #E5696C;
+    font-size: 34px;
+}
+
+.mail a:link, .mail a:visited, .mail a:hover, .mail a:active {
+    text-decoration:none;
+    color: #E5696C;
+}
+
+.apple-badge {
+    width: 130px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.more-info {
+    font-family: Open Sans;
+    color: #fff;
+    border: 1px solid #FFF;
+    padding: 8px;
+    border-radius: 10%;
+}
+
+a.more-info:link, a.more-info:visited, a.more-info:hover, a.more-info:active {
+    text-decoration:none;
+    color: #FFF;
+}
+
+.contact .logo {
+    margin-left: 40px;
+}
+
+.logos {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
