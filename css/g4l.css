@@ -47,7 +47,7 @@ h1,h2,h3,h4 {
     height: 400px;
     width: 100%;
     color: #FFF;
-    background: url('../img/headline.jpg') #363f48 fixed;
+    background: url('../img/headline.jpg') #363f48 no-repeat 50% 30%;
     z-index: 999998;
     position: relative;
     background-size: 100%;
@@ -66,17 +66,23 @@ h1,h2,h3,h4 {
 }
 
 
-.context-1 {
-    height: 400px;
+.context {
     width: 100%;
     color: #FFF;
-    background: url('../img/context-1.jpg') #363f48 fixed no-repeat 50% 0;
     z-index: 999998;
     position: relative;
-    /*background-size: 100%;*/
+    background-size: 100%;
     padding: 200px 80px;
     height: 450px;
     position: relative;
+}
+
+.context-1 {
+    background: url('../img/context-1.jpg') #363f48 fixed no-repeat 50% 0;
+}
+
+.context-2 {
+    background: url('../img/context-2.jpg') #363f48 fixed no-repeat 50% 0;
 }
 
 .enjoy {
@@ -203,3 +209,11 @@ a.more-info:link, a.more-info:visited, a.more-info:hover, a.more-info:active {
     text-align: center;
 }
 
+.footer-img {
+    padding-left: 0px;
+}
+
+.footer-img img {
+    width: 100%;
+
+}
