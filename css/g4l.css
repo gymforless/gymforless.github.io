@@ -89,6 +89,10 @@ h1,h2,h3,h4 {
     background: url('../img/context-2.jpg') #363f48 fixed no-repeat 50% 0;
 }
 
+.context-3 {
+    background: url('../img/context-3.jpg') #363f48 fixed no-repeat 50% 0;
+}
+
 .enjoy {
     font-family: "Open Sans Condensed";
     font-weight: 300;
