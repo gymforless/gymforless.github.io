@@ -48,11 +48,18 @@ h1,h2,h3,h4 {
     width: 100%;
     color: #FFF;
     background: url('../img/headline.jpg') #363f48 no-repeat 50% 30%;
-    z-index: 999998;
     position: relative;
     background-size: 100%;
     padding: 200px 40px 200px 80px;
 
+}
+
+.headline .text {
+    margin-top: -105px;
+}
+
+.lead {
+    color: #000000;
 }
 
 .headline .logo {
@@ -69,9 +76,6 @@ h1,h2,h3,h4 {
 .context {
     width: 100%;
     color: #FFF;
-    z-index: 999998;
-    position: relative;
-    background-size: 100%;
     padding: 200px 80px;
     height: 450px;
     position: relative;
@@ -97,7 +101,17 @@ h1,h2,h3,h4 {
     font-size: 45px;
 }
 
-.enjoy img {
+.enjoy .text-section {
+    margin-left: 30px;
+}
+
+.enjoy .app {
+    width: 215px;
+    margin-top: -175px;
+    z-index: 9999;
+}
+
+.enjoy .icon {
     padding: 50px;
 }
 
@@ -120,6 +134,10 @@ h1,h2,h3,h4 {
     display: inline-block;
     margin-bottom: 60px;
     padding-left: 10px;
+}
+
+.how-to img.ticket {
+    margin-bottom: 46px;
 }
 
 /* Center align the text within the three columns below the carousel */
@@ -165,14 +183,14 @@ h1,h2,h3,h4 {
 
 
 .contact h1 {
-    font-size: 38px;
+    font-size: 40px;
 }
 
 .mail {
     font-family: "Share Tech";
     font-style: normal;
     color: #E5696C;
-    font-size: 34px;
+    font-size: 39px;
 }
 
 .mail a:link, .mail a:visited, .mail a:hover, .mail a:active {
@@ -181,17 +199,22 @@ h1,h2,h3,h4 {
 }
 
 .apple-badge {
+    margin-top: -1px;
     width: 130px;
     display: inline-block;
     margin-right: 15px;
+}
+
+.links {
+    z-index: 9999999;
 }
 
 .more-info {
     font-family: Open Sans;
     color: #fff;
     border: 1px solid #FFF;
-    padding: 8px;
-    border-radius: 10%;
+    padding: 11px;
+    border-radius: 9%;
 }
 
 a.more-info:link, a.more-info:visited, a.more-info:hover, a.more-info:active {
@@ -207,6 +230,10 @@ a.more-info:link, a.more-info:visited, a.more-info:hover, a.more-info:active {
     width: 100%;
     margin: 0 auto;
     text-align: center;
+}
+
+.footer {
+    padding-top: 40px;
 }
 
 .footer-img {
