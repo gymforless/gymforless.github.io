@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/g4l.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/iscroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="g4l-landing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384692296411" ignored="false" />
+    <file path="/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384703630309" ignored="false" />
     <file path="/g4l.css" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384693466061" ignored="false" />
     <file path="/a.dummy" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384426225940" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-libs/malcom-analyze-storer/src/main/java/com/malcom/analyze/storer/dynamodb/utils/DynamoStorerServiceUtils.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444230903" ignored="false" />
     <file path="/DynamoStorerServiceUtils.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444230902" ignored="false" />
-    <file path="/Dummy.txt" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384693713865" ignored="false" />
+    <file path="/Dummy.txt" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384696872181" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-categories/analyze/analyze-statistics/analyze-statistics-workers/src/main/java/com/mobivery/malcom/categories/statistics/workers/BeaconConsumer.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444349353" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-cloud/malcom-cloud-slave/src/main/resources/hibernate.cfg.xml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444428387" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-webapps/malcom-api/src/profiles/commons/resources/hibernate.cfg.xml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444428387" ignored="false" />
@@ -80,10 +82,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="44" selection-start="4418" selection-end="4418" vertical-scroll-proportion="-8.938775">
+            <state line="40" column="30" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.78975266">
               <folding>
                 <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -100,13 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="iphone-white.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/iphone-white.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="g4l.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/g4l.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,10 +111,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CNAME" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="27" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="g4l.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/g4l.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="5" selection-start="652" selection-end="652" vertical-scroll-proportion="-19.2">
               <folding />
             </state>
           </provider>
@@ -181,9 +185,10 @@
         <option value="$PROJECT_DIR$/js/smooth-scroll.js" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/home.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/g4l.css" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/js/g4l.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -237,6 +242,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,7 +417,11 @@
       <created>1384693718792</created>
       <updated>1384693718792</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="CNAME file changed">
+      <created>1384696875293</created>
+      <updated>1384696875293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -423,7 +446,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -474,7 +497,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Back to CNAME file" />
+    <option name="LAST_COMMIT_MESSAGE" value="CNAME file changed" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -496,6 +519,7 @@
     <MESSAGE value="Delete CNAME file just in case cause issues with email services on the domain" />
     <MESSAGE value="Working on responsive" />
     <MESSAGE value="Back to CNAME file" />
+    <MESSAGE value="CNAME file changed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -505,13 +529,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/smooth-scroll.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="389" selection-end="389" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/skrollr.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -578,15 +595,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="44" selection-start="4418" selection-end="4418" vertical-scroll-proportion="-8.938775">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/g4l.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="110" column="29" selection-start="1756" selection-end="1756" vertical-scroll-proportion="-2.92">
@@ -598,6 +606,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="27" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/g4l.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="5" selection-start="652" selection-end="652" vertical-scroll-proportion="-19.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="30" selection-start="1438" selection-end="1438" vertical-scroll-proportion="0.78975266">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
