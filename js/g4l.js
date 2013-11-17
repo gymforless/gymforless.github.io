@@ -7,17 +7,10 @@
 	}
 
 	$(function(){
-		var iScrollInstance;
-
 		if (isMobileWebkit) {
-			iScrollInstance = new iScroll('wrapper');
-
-			$('#scroller').stellar({
-				scrollProperty: 'transform',
-                horizontalScrolling: false,
-                horizontalOffset: 0,
-                verticalOffset: 500
-			});
+            $('.context-1').setAttribute('style', 'background-position: 60% -200px;');
+            $('.context-2').setAttribute('style', 'background-position: 48% -320px;');
+            $('.context-3').setAttribute('style', 'background-position: 48% -300px;');
 		} else {
 			$.stellar({
                 horizontalScrolling: false,
@@ -26,7 +19,6 @@
 			});
             skrollr.init();
 		}
-
 
 	});
 
