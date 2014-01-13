@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" name="Default" comment="App Store meta link">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descarga/index.html" />
+    <list default="true" id="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/annotation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-images-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/app-images-mobile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/appstore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/background-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/dark_background_stripes.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/googleplay-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-80x80.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_activities-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_beauty-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_court-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_fitness-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_food-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_pool-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_services-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon_spa-small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/placeholder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/g4l-landing.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/g4l-landing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.smartbanner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.smartbanner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/descarga/index.html" afterPath="$PROJECT_DIR$/descarga/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="g4l-landing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389606968003" ignored="false" />
+    <file path="/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389612416150" ignored="false" />
     <file path="/g4l.css" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1388448661323" ignored="false" />
     <file path="/a.dummy" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384426225940" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-libs/malcom-analyze-storer/src/main/java/com/malcom/analyze/storer/dynamodb/utils/DynamoStorerServiceUtils.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444230903" ignored="false" />
     <file path="/DynamoStorerServiceUtils.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444230902" ignored="false" />
-    <file path="/Dummy.txt" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389611157795" ignored="false" />
+    <file path="/Dummy.txt" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389611267210" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-categories/analyze/analyze-statistics/analyze-statistics-workers/src/main/java/com/mobivery/malcom/categories/statistics/workers/BeaconConsumer.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444349353" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-cloud/malcom-cloud-slave/src/main/resources/hibernate.cfg.xml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444428387" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-webapps/malcom-api/src/profiles/commons/resources/hibernate.cfg.xml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444428387" ignored="false" />
@@ -124,16 +147,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="50" selection-start="1906" selection-end="1906" vertical-scroll-proportion="-10.408163">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/descarga/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="24" selection-start="545" selection-end="545" vertical-scroll-proportion="0.44041452">
+            <state line="43" column="15" selection-start="1488" selection-end="1918" vertical-scroll-proportion="-7.6530614">
               <folding />
             </state>
           </provider>
@@ -142,25 +156,47 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="476" column="3" selection-start="0" selection-end="126432" vertical-scroll-proportion="0.0">
+            <state line="16" column="55" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/descarga/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="25" selection-start="0" selection-end="27748" vertical-scroll-proportion="0.0">
+            <state line="26" column="20" selection-start="1062" selection-end="1062" vertical-scroll-proportion="-6.6666665">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="service-4.png" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/service-4.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="g4l-landing.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/g4l-landing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="96" selection-start="1640" selection-end="1640" vertical-scroll-proportion="1.3539823">
+              <folding>
+                <marker date="1389612517000" expanded="false" signature="2313:2325" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.smartbanner.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery.smartbanner.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.smartbanner.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/jquery.smartbanner.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="37" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -194,15 +230,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="g4l.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/g4l.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="13" selection-start="0" selection-end="606" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -229,6 +256,7 @@
         <option value="$PROJECT_DIR$/css/g4l.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/descarga/index.html" />
+        <option value="$PROJECT_DIR$/js/g4l-landing.js" />
       </list>
     </option>
   </component>
@@ -309,7 +337,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="descarga" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g4l-landing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,10 +389,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -520,11 +576,15 @@
       <created>1388939268736</created>
       <updated>1388939268736</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="'Descarga' web">
+      <created>1389611271169</created>
+      <updated>1389611271169</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="0" />
+    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -538,19 +598,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22042139" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26661265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -596,7 +656,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="App Store meta link" />
+    <option name="LAST_COMMIT_MESSAGE" value="'Descarga' web" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -630,6 +690,7 @@
     <MESSAGE value="SEO stuff" />
     <MESSAGE value="Included some &quot;http&quot; before &quot;//&quot; just to make sure it's everything alright." />
     <MESSAGE value="App Store meta link" />
+    <MESSAGE value="'Descarga' web" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -639,21 +700,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/context-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/iphone-black.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/service-8.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/service-2.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -672,13 +718,6 @@
     <entry file="file://$PROJECT_DIR$/img/enjoy-image.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="476" column="3" selection-start="0" selection-end="126432" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
@@ -717,17 +756,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.smartbanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jquery.smartbanner.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="37" selection-start="1768" selection-end="1768" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="55" selection-start="335" selection-end="335" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="50" selection-start="1906" selection-end="1906" vertical-scroll-proportion="-10.408163">
+        <state line="43" column="15" selection-start="1488" selection-end="1918" vertical-scroll-proportion="-7.6530614">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/descarga/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="24" selection-start="545" selection-end="545" vertical-scroll-proportion="0.44041452">
+        <state line="26" column="20" selection-start="1062" selection-end="1062" vertical-scroll-proportion="-6.6666665">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/g4l-landing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="96" selection-start="1640" selection-end="1640" vertical-scroll-proportion="1.3539823">
+          <folding>
+            <marker date="1389612517000" expanded="false" signature="2313:2325" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
