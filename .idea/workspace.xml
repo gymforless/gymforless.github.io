@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" name="Default" comment="Descarga folder removed">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/googleplay.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/googleplay-2.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/g4l.css" afterPath="$PROJECT_DIR$/css/g4l.css" />
+    <list default="true" id="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="g4l-landing.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1390210699261" ignored="false" />
+    <file path="/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1390226439985" ignored="false" />
     <file path="/g4l.css" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1390209744774" ignored="false" />
     <file path="/a.dummy" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384426225940" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-libs/malcom-analyze-storer/src/main/java/com/malcom/analyze/storer/dynamodb/utils/DynamoStorerServiceUtils.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444230903" ignored="false" />
     <file path="/DynamoStorerServiceUtils.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444230902" ignored="false" />
-    <file path="/Dummy.txt" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1390210677908" ignored="false" />
+    <file path="/Dummy.txt" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1390226276423" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-categories/analyze/analyze-statistics/analyze-statistics-workers/src/main/java/com/mobivery/malcom/categories/statistics/workers/BeaconConsumer.java" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444349353" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-cloud/malcom-cloud-slave/src/main/resources/hibernate.cfg.xml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444428387" ignored="false" />
     <file path="$USER_HOME$/Malcom/malcom/malcom-webapps/malcom-api/src/profiles/commons/resources/hibernate.cfg.xml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1384444428387" ignored="false" />
@@ -27,7 +24,7 @@
     <file path="$PROJECT_DIR$/../g4l-downloads-landing/css/bootstrap.css" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1388155851118" ignored="false" />
     <file path="$PROJECT_DIR$/../g4l-downloads-landing/js/bootstrap.min.js" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1388155948176" ignored="false" />
     <file path="$PROJECT_DIR$/../g4l-downloads-landing/js/g4l-landing.js" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389608469170" ignored="false" />
-    <file path="$PROJECT_DIR$/../g4l-downloads-landing/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389631481172" ignored="false" />
+    <file path="$PROJECT_DIR$/../g4l-downloads-landing/index.html" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1390211180850" ignored="false" />
     <file path="$PROJECT_DIR$/../g4l-downloads-landing/css/g4l-landing.css" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1389643307227" ignored="false" />
     <file path="/g4l-landing.css" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1388595935092" ignored="false" />
     <file path="$PROJECT_DIR$/../gym/src/main/resources/production/application.yml" changelist="a97dd07e-55a8-48f1-8c7e-bbbf076a04ff" time="1388158846382" ignored="false" />
@@ -91,7 +88,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -128,6 +124,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -149,7 +146,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="33" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.33333334">
+            <state line="215" column="40" selection-start="7914" selection-end="7914" vertical-scroll-proportion="0.39086294">
               <folding />
             </state>
           </provider>
@@ -246,7 +243,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,6 +277,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -289,14 +286,14 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -349,13 +346,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" runner="idea" />
       <module name="" />
@@ -375,6 +365,13 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -503,7 +500,11 @@
       <created>1389630347214</created>
       <updated>1389630347214</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Google Play badges added">
+      <created>1390210725634</created>
+      <updated>1390210725634</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -579,7 +580,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Descarga folder removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Google Play badges added" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -617,6 +618,7 @@
     <MESSAGE value="Downloads Landing added path 'descarga'" />
     <MESSAGE value="SEO issues" />
     <MESSAGE value="Descarga folder removed" />
+    <MESSAGE value="Google Play badges added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,6 +628,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="21" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/img/enjoy-image.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -706,7 +715,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="33" selection-start="1472" selection-end="1472" vertical-scroll-proportion="0.33333334">
+        <state line="215" column="40" selection-start="7914" selection-end="7914" vertical-scroll-proportion="0.39086294">
           <folding />
         </state>
       </provider>
