@@ -211,23 +211,46 @@ h1,h2,h3,h4 {
     color: #E5696C;
 }
 
+.badges {
+    width: 115px;
+}
+
 .apple-badge {
-    margin-top: -1px;
+    margin-top: 10px;
     width: 130px;
     display: inline-block;
     margin-right: 15px;
 }
 
+.apple-badge-small {
+    margin-top: -1px;
+    width: 115px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.google-play-badge {
+    height: 40px;
+    margin-top: 10px;
+}
+
+.google-play-badge-small {
+    width: 115px;
+    margin-top: 5px;
+}
+
 .links {
     z-index: 9999999;
     padding-right: 30px;
+    margin-top: -20px;
 }
 
 .more-info {
+    height: 72px;
     font-family: Open Sans;
     color: #fff;
     border: 1px solid #FFF;
-    padding: 9px;
+    padding: 25px 10px;
     border-radius: 9%;
 }
 
@@ -237,13 +260,16 @@ a.more-info:link, a.more-info:visited, a.more-info:hover, a.more-info:active {
 }
 
 .contact .logo {
-
 }
 
 .logos {
     width: 100%;
     margin: 0 auto;
     text-align: center;
+}
+
+.logos > IMG {
+    margin-top: 10px;
 }
 
 .footer {
